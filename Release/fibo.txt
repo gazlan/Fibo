@@ -1,0 +1,7 @@
+-*-   FibonacciSequence   *   Copyright (c) gazlan@yandex.ru, 2012   -*-
+
+FibonacciSequence calculator
+
+Usage: fibo.exe [output.txt]
+
+complains_n_suggestions direct to gazlan@yandex.ru
